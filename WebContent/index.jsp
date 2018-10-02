@@ -45,19 +45,19 @@
 				    <span id="live">
 					    <a href="ShowAllUsersServlet">显示所有的用户信息</a><br/>
 						<a href="showAllProductServlet">显示所有的商品信息</a><br/>
-						<a href="ShowUsersByPageNumServlet?pageNum=1&pageSize=5">按分页技术查询用户信息</a><br/>
+						<a href="ShowUsersByPageNumServlet?pageNum=1&pageSize=5">分页查询用户信息</a><br/>
 						<a href="addProduct.jsp">添加书籍信息</a><br/>
 					</span>			
 				</div>
 				<div id="right">
 				    <marquee id="notice" direction="up" onMouseOut=this.start() onMouseOver=this.stop()>
 						公告信息<br/>
-						&thinsp; &thinsp; 本月30日，BUG网上书店即将迎来开店一周年。为了感谢广大日本原版书籍爱好者对我店的支持，将举行9月限定优惠活动~！<br/>
-			            &thinsp; &thinsp;活动时间：2018年9月30日~2018年10月10日<br/>
+						&thinsp; &thinsp; XXXXXXXXXXXXXXXXXXXXXXX<br/>
+			            &thinsp; &thinsp;活动时间：XXXXXXXXXXXX<br/>
 			            &thinsp; &thinsp;内容：<br/>
-			            &thinsp; &thinsp;1.面向来店客人：向一次性购买100元以上书籍的客人赠送20元商品卷。（注意：该商品购书当日不可使用。）<br/>
-			            &thinsp; &thinsp;2.面向网购客人：一次性购买100元以上书籍的交易，将免快递费。<br/>
-			            &thinsp; &thinsp;欢迎大家能利用这个机会，购买到自己喜欢的日本原版书籍~！				
+			            &thinsp; &thinsp;1.XXXXXXXXXXXXXXXXX<br/>
+			            &thinsp; &thinsp;2.XXXXXXXXXXXXXXXXXXXXX<br/>
+			            &thinsp; &thinsp;XXXXXXXXXXXXXXXXXXXXXX				
 					</marquee>
 					
 				</div>
